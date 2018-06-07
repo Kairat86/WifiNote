@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WIFINote</string>
+    <string name="open_networks">Open Networks</string>
+    <string name="service_running">Service is running</string>
+    <string name="no_open_network">Open networks not found</string>
+    <string name="connect">Connect</string>
+    <string name="stop_service">Stop service</string>
+    <string name="gps_network_not_enabled">GPS not enabled</string>
+    <string name="open_location_settings">Open location settings</string>
+</resources>
