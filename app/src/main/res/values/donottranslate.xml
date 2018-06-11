@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">WIFINote</string>
     <string name="app_id">ca-app-pub-8761730220693010~8240367199</string>
     <string name="banner_id">ca-app-pub-8761730220693010/5400960177</string>
 </resources>

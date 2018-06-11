@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">WIFINote</string>
     <string name="open_networks">Open Networks</string>
     <string name="service_running">Service is running</string>
     <string name="no_open_network">Open networks not found</string>

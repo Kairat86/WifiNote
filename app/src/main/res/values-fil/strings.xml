@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_networks">Buksan ang Mga Network</string>
+    <string name="service_running">Ang serbisyo ay tumatakbo</string>
+    <string name="no_open_network">Hindi nakita ang mga buksan na network</string>
+    <string name="connect">Ikonekta</string>
+    <string name="stop_service">Itigil ang serbisyo</string>
+    <string name="gps_network_not_enabled">GPS not enabled</string>
+    <string name="open_location_settings">Buksan ang mga setting ng lokasyon</string>
+</resources>
